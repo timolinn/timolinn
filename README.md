@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- I'm Tim, I'm a [humble programmer](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html) as described by Edsger.
+- I specialize in backend software engineering.
+- I love working in Rust and Go.
 <!--
 **timolinn/timolinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
