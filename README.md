@@ -1,3 +1,6 @@
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=timolinn&show_icons=true&theme=cobalt2)
+
 ### Hi there 👋
 
 - I'm Tim, a [humble programmer](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html) as described by Edsger.
@@ -6,6 +9,7 @@
 - I'm passionate about operating systems.
 - I'm a Tolkien fan.
 - You can also find me on Kombat League in MK1.
+
 <!--
 **timolinn/timolinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
