@@ -7,7 +7,7 @@
 - I specialize in backend software engineering.
 - I love working with Rust and Go.
 - I'm passionate about operating systems.
-- Tolkein Universe ❤️ 
+- Tolkien Universe ❤️ 
 - You can also find me on Kombat League in MK1.
 
 <!--
