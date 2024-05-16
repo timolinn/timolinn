@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- I'm Tim, a [humble programmer](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html) as described by Edsger.
+- I'm Tim, a [humble programmer](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html) as described by Edsger Dijkstra.
 - I specialize in backend software engineering.
 - I love working with Rust and Go.
 - I'm passionate about operating systems.
