@@ -7,8 +7,9 @@
 - I specialize in backend software engineering.
 - I love working with Rust and Go.
 - I'm passionate about operating systems.
-- Tolkien Universe ❤️ 
 - You can also find me on Kombat League in MK1.
+
+![](https://komarev.com/ghpvc/?username=timolinn&color=blue)
 
 <!--
 **timolinn/timolinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
