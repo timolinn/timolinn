@@ -3,10 +3,9 @@
 
 ### Hi there 👋
 
-- I'm Tim, a [humble programmer](https://www.cs.utexas.edu/~EWD/transcriptions/EWD03xx/EWD340.html) as described by Edsger Dijkstra.
-- I specialize in backend software engineering.
+- I'm a backend software engineer.
 - I love working with Rust and Go.
-- I'm passionate about operating systems.
+- I'm passionate about operating systems and autonomous vehicles.
 - You can also find me on Kombat League in MK1.
 
 ![](https://komarev.com/ghpvc/?username=timolinn&color=blue)
